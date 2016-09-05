@@ -1,0 +1,6 @@
+configuration\JpaConfig.class
+configuration\ServicesConfig.class
+restService\com\websystique\springmvc\controller\RegionControllerTest.class
+configuration\RestConfig.class
+restService\com\websystique\springmvc\controller\BranchControllerTest.class
+restService\com\websystique\springmvc\controller\GetServiceTest.class
